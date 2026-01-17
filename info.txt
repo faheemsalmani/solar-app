@@ -1,0 +1,6 @@
+Act as a senior software achitect (Cleaner/minimal code, dual check), content writer(Great writing) and UX designer(minimal premium design, match same design accross and phone UI too). 
+Task 1:
+Task 2:
+Task 3:
+
+Final Task: Delete redundant, unused/unnecessary code. Verify no copile issues and All tabs work
